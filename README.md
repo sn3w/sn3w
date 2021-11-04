@@ -4,7 +4,7 @@
 void main(void) {
   char language = "C";
   char name[] = "[CENSORED]";
+  char trivia[] = "sn3w likes merko color scheme.";
   int age = 14;
-  printf(language, name, age);
 }
 ```
