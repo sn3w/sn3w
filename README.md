@@ -1,4 +1,3 @@
-### Hi there 👋
 ![stats](https://github-readme-stats.vercel.app/api?username=sn3w&show_icons=true&theme=gruvbox)
 ```c
 void main(void) {
