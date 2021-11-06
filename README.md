@@ -1,1 +1,1 @@
-Translate: когда-нибудь откажусь от тебя
+GLUP FHVC JCMJ UKTQ GHL
