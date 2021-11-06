@@ -1,3 +1,4 @@
-```c
-/* GLUP FHVC JCMJ UKTQ GHL */
+challenge:
+```
+GLUP FHVC JCMJ UKTQ GHL
 ```
